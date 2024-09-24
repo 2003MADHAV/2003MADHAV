@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://2003madhav.github.io/Madhav-Portfolio/](https://2003madhav.github.io/Madhav-Portfolio/)
 
+- 🌐 Check out my personal website at [madhavkumar.easerent.in](https://madhavkumar.easerent.in)
+
 - 💬 Ask me about **Java, Kotlin, Python, Android Development, PHP, Html, CSS**
 
 - 📫 How to reach me **madhavkumar03032003@gmail.com**
