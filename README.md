@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2003madhav" alt="2003madhav" /></a> </p>
 
-- 🔭 I’m currently working on [EaseRent](https://play.google.com/apps/testing/com.broker.vrss)
+- 🔭 I’m currently working on [EaseRent]
 
 - 🌱 I’m currently learning **Flutter(Dart)**
 
