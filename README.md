@@ -14,7 +14,7 @@
 
 - 🌐 Check out my personal website at [madhavkumar.easerent.in](https://madhavkumar.easerent.in)
 
-- 💬 Ask me about **Java, Kotlin, Python, Android Development, PHP, Html, CSS**
+- 💬 Ask me about **Software Testing, Manual Testing, Automation Testing, SQL, API Integration With Postman, Java, Kotlin, Python, Android Development, PHP, Html, CSS**
 
 - 📫 How to reach me **madhavkumar03032003@gmail.com**
 
