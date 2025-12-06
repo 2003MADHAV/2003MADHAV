@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter(Dart)**
 
-- 👨‍💻 All of my projects are available at [https://2003madhav.github.io/Madhav-Portfolio/](https://2003madhav.github.io/Madhav-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://2003madhav.github.io/Madhav-Kumar/](https://2003madhav.github.io/Madhav-Portfolio/)
 
 - 🌐 Check out my personal website at [madhavkumar.easerent.in](https://madhavkumar.easerent.in)
 
