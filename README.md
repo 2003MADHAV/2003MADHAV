@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003madhav&label=Profile%20views&color=0e75b6&style=flat" alt="2003madhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2003madhav" alt="2003madhav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=2003madhav](https://2003madhav.github.io/Madhav-Kumar/)" alt="2003madhav" /></a> </p>
 
 - 🔭 I’m currently working on EaseRent: Integrated Admin Web Portal and Mobile Solutions for Rental Property Management 
 
