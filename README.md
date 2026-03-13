@@ -1,23 +1,51 @@
-<h1 align="center">Hi 👋, I'm MADHAV KUMAR</h1>
-<h3 align="center">A passionate Android developer & Java Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
+<h3 align="center">Aspiring Software Test Engineer | India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2003madhav&label=Profile%20views&color=0e75b6&style=flat" alt="2003madhav" /> </p>
+<p align="center">
+Passionate about Software Testing, Automation Testing, and building reliable, high-quality software systems.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=2003madhav](https://2003madhav.github.io/Madhav-Kumar/)" alt="2003madhav" /></a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=2003madhav&label=Profile%20Views&color=0e75b6&style=flat" alt="2003madhav" />
+</p>
 
-- 🔭 I’m currently working on EaseRent: Integrated Admin Web Portal and Mobile Solutions for Rental Property Management 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=2003madhav&theme=flat&margin-w=10" alt="2003madhav" />
+</a>
+</p>
 
+---
 
-- 🌱 I’m currently learning **Flutter(Dart)**
+### 🚀 Current Work
+- 🔭 Currently working on **EaseRent – Integrated Admin Web Portal & Mobile Solutions for Rental Property Management**
 
-- 👨‍💻 All of my projects are available at:
-👉 https://2003madhav.github.io/Madhav-Kumar/
+### 📚 Currently Learning
+- 🌱 **Automation Testing using Selenium with Java**
+- 🧪 **TestNG Framework**
 
-- 🌐 Check out my personal website at [madhavkumar.easerent.in](https://madhavkumar.easerent.in)
+### 💻 Projects
+- 👨‍💻 Explore my projects here  
+🔗 **Portfolio:** https://2003madhav.github.io/Madhav-Kumar/
 
-- 💬 Ask me about **Software Testing, Manual Testing, Automation Testing, SQL, API Integration With Postman, Java, Kotlin, Python, Android Development, PHP, Html, CSS**
+### 🌐 Personal Website
+🔗 **Website:** https://madhavkumar.easerent.in
 
-- 📫 How to reach me **madhavkumar03032003@gmail.com**
+### 💡 Technical Interests
+- Software Testing
+- Manual Testing
+- Automation Testing
+- Java
+- SQL
+- API Testing (Postman)
+- Android Development
+- Web Technologies (HTML, CSS, PHP)
+- Python & Kotlin
+
+### 📫 Contact Me
+**Email:** madhavkumar03032003@gmail.com  
+**Mob:** 91+ 8936845863
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
